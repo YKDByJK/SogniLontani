@@ -77,6 +77,6 @@ footer {
 .my-image {
     width: auto;
     height: auto;
-    max-width: 50%; /* Ensures the image doesn't overflow the container */
+    max-width: 20%; /* Ensures the image doesn't overflow the container */
     
 }
